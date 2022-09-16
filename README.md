@@ -20,16 +20,16 @@
 </div>
 <br>
 <br>
-<h2 align="center">🛠️ What I Use</h2>
+<h2 align="center">What I Use</h2>
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,selenium,jest,mysql,mongodb,git,vscode,linux,docker,heroku)](https://skillicons.dev)
     <br>
 </div> 
 <br>
-<h2 align="center">🛠️ My Stats</h2>
+<h2 align="center">My Stats</h2>
 <div align="center">
   <a href="https://github.com/matfbs">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=matfbs&show_icons=true&theme=dark&count_private=true&show_icons=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matfbs&layout=compact&theme=dark&count_private=true&show_icons=true">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=matfbs&show_icons=true&theme=dark&count_private=true&show_icons=true">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matfbs&layout=compact&theme=dark&count_private=true&show_icons=true">
 </div>
