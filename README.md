@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Matheus!</h1>
 <br>
 
-<img align = "left" height = "360px"  src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYzNmJhNGI2OWMwZjIxNWRhNzE1ZTcwMmFjNmIxMDI1OWFhYmUyYyZjdD1z/MFrwa5FS7PWHB8W5N1/giphy.gif">
+<img align = "left" height = "360px"  src = "https://github.com/matfbs/matfbs/blob/main/gif.gif?raw=true">
   <div align = "left">
   <h2 align = "center">About Me</h2>
     <br>
