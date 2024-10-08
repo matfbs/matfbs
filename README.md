@@ -8,7 +8,7 @@
 
   &nbsp;&nbsp;&nbsp;🎓 I have a degree in systems analysis and development.
     
-   &nbsp;&nbsp;&nbsp;💚 I'm studying full stack web development at Trybe.
+   &nbsp;&nbsp;&nbsp;💚 I studied <a href="https://www.credential.net/profile/matheusfranabarbosasilva91728/wallet" target=”_blank”>full-stack web development</a> at Trybe.
 
    &nbsp;&nbsp;&nbsp;📝 I’m currently learning more about React.
     
@@ -21,7 +21,7 @@
 <h2 align="center">What I Use</h2>
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,selenium,jest,mysql,mongodb,git,vscode,linux,docker,heroku)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,bun,py,flask,selenium,jest,mongodb,vscode,docker)](https://skillicons.dev)
     <br>
 </div> 
 <br>
